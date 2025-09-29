@@ -116,7 +116,7 @@ This project is proprietary and cannot be copied or distributed without permissi
 Contact
 GitHub: https://github.com/josephstevenit-alt
 
-Email: your.email@example.com
+Email: your.josephstevenit@example.com
 
 yaml
 Copy code
